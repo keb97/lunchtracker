@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  day: MyString
+  fruit: MyString
+  items: 1.5
+
+two:
+  day: MyString
+  fruit: MyString
+  items: 1.5

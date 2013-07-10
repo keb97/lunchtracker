@@ -1,0 +1,5 @@
+== Hello and Welcome to Lunchtracker ==
+
+This app records what day you ate a lunch ("day"), what fruit you ate ("fruit), and how many total items you ate ("items").
+The inputs for day and fruit should both be strings and the input for items should be a float. 
+Each entry will be displayed in the app, and will also remain available for editing and deleting according to your preference.
