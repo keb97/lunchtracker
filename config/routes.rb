@@ -1,5 +1,6 @@
 Lunchtracker::Application.routes.draw do
   resources :lunches
+  root :to => "lunches#index"
 
 
   # The priority is based upon order of creation:
